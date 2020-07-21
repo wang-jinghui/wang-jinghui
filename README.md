@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+I'm a Data practitioner, I have done many projects related to ML.
+-
+- formal:
+    1. Phone fraud identification
+    2. Internet traffic forecast
+    3. ........
+- Informal(contest):
+    1. 第二届阿里云安全算法大赛         top 10%
+    2. 第二届易观算法大赛               top 2
+    3. DC国能日新光伏功率预测大赛        top 5
+    4. DC国能日新太阳辐射指数预测大赛     top 26
+    5. IKCEST2019城市功能区识别          top 10
+    6. AIIA2019城市流量预测              top 10
+    7. iFly2019应用分类
+    8. ......
+
 <!--
 **wang-jinghui/wang-jinghui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
