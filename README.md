@@ -7,14 +7,14 @@ I'm a Data practitioner, I have done many projects related to ML.
     2. Internet traffic forecast
     3. ........
 - Informal(contest):
-    1. 第二届阿里云安全算法大赛         排名80
-    2. 第二届易观算法大赛               排名2
-    3. DC国能日新光伏功率预测大赛        排名5
-    4. DC国能日新太阳辐射指数预测大赛     排名26
-    5. IKCEST2019城市功能区识别          排名10
-    6. AIIA2019城市流量预测              排名10
-    7. iFly2019应用分类
-    8. ......
+    1. 第二届阿里云安全算法大赛         top 80+
+    2. 第二届易观算法大赛               top 2
+    3. DC国能日新光伏功率预测大赛        top 5
+    4. DC国能日新太阳辐射指数预测大赛     top 26
+    5. IKCEST2019城市功能区识别          top 10
+    6. AIIA2019城市流量预测              top 10
+    7. iFly2020多模态情感分析(ECG)      top 3
+    8. 2020数字四川创新大赛(欺诈检测)    top 3
 
 <!--
 **wang-jinghui/wang-jinghui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
