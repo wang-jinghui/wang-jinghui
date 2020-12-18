@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I'm a Data practitioner, I have done many projects related to ML.
+
+Now, I all in RL.
 -
 - formal:
     1. Phone fraud identification
