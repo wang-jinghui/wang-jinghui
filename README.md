@@ -4,11 +4,11 @@ I'm a Data practitioner, I have done many projects related to ML.
 
 Now, I all in RL.
 -
-- formal:
+- A:
     1. Phone fraud identification
     2. Internet traffic forecast
     3. ........
-- Informal(contest):
+- B:
     1. 第二届阿里云安全算法大赛         top 80+
     2. 第二届易观算法大赛               top 2
     3. DC国能日新光伏功率预测大赛        top 5
