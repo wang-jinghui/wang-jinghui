@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a Data practitioner, I have done many projects related to ML.
+Elementary school students in machine learning.
+机器学习界的小学生，中国厨艺训练学院第105届毕业生。
 
 -
 - A:
