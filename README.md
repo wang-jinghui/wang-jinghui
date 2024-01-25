@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Elementary school students in machine learning.
-机器学习界的小学生，中国厨艺训练学院第105届毕业生。
+二手的人工智能表演艺术家，中国厨艺训练学院第105届毕业生。
 
  
 
